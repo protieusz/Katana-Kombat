@@ -3,7 +3,7 @@ Katana Kombat: A 39 keys keyboard with Katana layout and a trackball in the cent
 
 Thank you, ![PCBWay](https://github.com/protieusz/Katana-Kombat/assets/118025702/bdd83a7d-2658-4326-90c7-f380680f9a08) for sponsoring my Katana Kombat.  PCBWay is your one stop PCB prototyping shopping services.
 
-Case is a bit too height. Will adjust the case height in the future. Files will be made public shortly. Trackball 3D module component part, you will need to buy it from this designer since he is selling it https://ma-po.booth.pm/items/5258743 and create your own.
+Case is a bit too height. Will adjust the case height in the future. Files will be made public shortly. Trackball 3D module component part, you will need to buy it from this designer since he is selling it https://ma-po.booth.pm/items/5258743 and create your own or use my custom created one that is not as fancy or has a clip to prevent the ball from falling out if you turn your keeb upside down.
 
 QMK source code will be uploaded later and also uses template code from Bally and modify according to Katana Kombat matrix.
 
