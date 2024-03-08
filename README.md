@@ -1,5 +1,5 @@
 # Katana-Kombat
-Katana Kombat: A 39 keys keyboard with Katana layout and a trackball in the center with RGBs.
+Katana Kombat: A 39 keys keyboard with Katana layout and a trackball in the center with RGBs. This design will be close source. It will be on sale soon!
 
 Thank you, ![PCBWay](https://github.com/protieusz/Katana-Kombat/assets/118025702/bdd83a7d-2658-4326-90c7-f380680f9a08) for sponsoring my Katana Kombat.  PCBWay is your one stop PCB prototyping shopping services.
 
