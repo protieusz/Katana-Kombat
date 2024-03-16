@@ -7,8 +7,7 @@ Case is a bit too height. Will adjust the case height in the future. ~~Files wil
 
 QMK source code will be uploaded later and also uses template code from Bally and modify according to Katana Kombat matrix.
 
-Print at your own risk and no support is given.
-
+This design will be close source and will be on sale on a website in the future.
 
 Final Production Pictures:
 
@@ -46,26 +45,3 @@ Fusion360 Renders:
 ![Screenshot 2024-01-13 at 7 32 02 PM](https://github.com/protieusz/Katana-Kombat/assets/118025702/90c17a81-7538-4251-bbc8-7448cce40db2)
 ![Screenshot_2024-01-13_at_2 43 45_PM](https://github.com/protieusz/Katana-Kombat/assets/118025702/ef01b926-6e93-4904-abd9-353e8ae37b33)
 ![Screenshot_2024-01-13_at_2 38 57_PM](https://github.com/protieusz/Katana-Kombat/assets/118025702/2966b1b5-1ade-4387-b3e7-14d008302546)
-
-# License
-
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
-
-You are free to:
-
-Share — copy and redistribute the material in any medium or format
-
-Adapt — remix, transform, and build upon the material
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-Under the following terms:
-
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-NonCommercial — You may not use the material for commercial purposes.
-
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-Katana-Kombat by ProtieusKeebs is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
